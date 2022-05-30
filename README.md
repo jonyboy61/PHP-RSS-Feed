@@ -13,8 +13,8 @@ This is just a test for practicing.
 The things you need before installing the software.
 
 * DataBaseServer
-* And you need a database with MySQL
-* Oh, and don't forget APACHESERVER
+* And you need a database with MySQL;
+* Oh, and don't forget APACHE SERVER.
 
 ### Installation
 
