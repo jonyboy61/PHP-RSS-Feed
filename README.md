@@ -1,6 +1,6 @@
 # RSS Feed JornalNoticias
 
-A short description about the project and/or client.
+Script to save news from Jornal de Noticias.
 
 ## Getting Started
 
